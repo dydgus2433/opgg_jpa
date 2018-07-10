@@ -6,5 +6,5 @@ import javax.persistence.Table;
 @Entity
 @Table(name="RANKING")
 public class Ranking {
-
+	
 }
